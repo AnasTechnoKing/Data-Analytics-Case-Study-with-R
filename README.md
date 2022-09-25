@@ -1,6 +1,7 @@
 # Data-Analytics-Case-Study-with-R
 
 How Can a Wellness Technology Company Play It Smart?
+
 ![d69e3b90f5cd0c8528283d84e3b6e87097c94302](https://user-images.githubusercontent.com/91084797/192148203-546d8585-bdd1-4ff8-9a2b-42146e3cf700.png)
 
 
