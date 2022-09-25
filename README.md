@@ -15,6 +15,11 @@ Scenario
 
 You are a junior data analyst working on the marketing analyst team at Bellabeat, a high-tech manufacturer of health-focused products for women. Bellabeat is a successful small company, but they have the potential to become a larger player in the global smart device market. Urška Sršen, cofounder and Chief Creative Officer of Bellabeat, believes that analyzing smart device fitness data could help unlock new growth opportunities for the company. You have been asked to focus on one of Bellabeat’s products and analyze smart device data to gain insight into how consumers are using their smart devices. The insights you discover will then help guide marketing strategy for the company. You will present your analysis to the Bellabeat executive team along with your high-level recommendations for Bellabeat’s marketing strategy.
 
+My Case Study Process and Conclusions
+
+In this case study, I will perform data analysis for Bellabeat, a high-tech manufacturer of health-focused products for women. I will analyze smart device data to gain insight into how consumers are using their smart devices. My analysis will help guide future marketing strategies for their team. Along the way, I will perform numerous real-world tasks of a junior data analyst by following the steps of the data analysis process: Ask, Prepare, Process, Analyze, Share, and Act.
+By the end of the process, I will share my analysis conclusion and recommendation that will provide Bellabeat with insights that will help guide marketing strategy for the company.
+
 Data Analytics Process Stages
 
 ![Screenshot 2022-09-23 111420](https://user-images.githubusercontent.com/91084797/192148221-2557e23e-5453-4379-9ef0-4d372abb445a.png)
