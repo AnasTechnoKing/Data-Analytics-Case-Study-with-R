@@ -27,6 +27,9 @@ Data Analytics Process Stages Approach
 ![Screenshot 2022-09-23 111420](https://user-images.githubusercontent.com/91084797/192148221-2557e23e-5453-4379-9ef0-4d372abb445a.png)
 
 
+My Case Study on Kaggle 
+
+https://www.kaggle.com/datasets/cascert/belle-beat-case-study?datasetId=2498802&sortBy=dateRun&tab=profile
 
 
 
