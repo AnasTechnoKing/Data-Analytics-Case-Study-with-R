@@ -20,7 +20,7 @@ My Case Study Process and Conclusions
 In this case study, I will perform data analysis for Bellabeat, a high-tech manufacturer of health-focused products for women. I will analyze smart device data to gain insight into how consumers are using their smart devices. My analysis will help guide future marketing strategies for their team. Along the way, I will perform numerous real-world tasks of a junior data analyst by following the steps of the data analysis process: Ask, Prepare, Process, Analyze, Share, and Act.
 By the end of the process, I will share my analysis conclusion and recommendation that will provide Bellabeat with insights that will help guide marketing strategy for the company.
 
-Data Analytics Process Stages
+Data Analytics Process Stages Approach
 
 ![Screenshot 2022-09-23 111420](https://user-images.githubusercontent.com/91084797/192148221-2557e23e-5453-4379-9ef0-4d372abb445a.png)
 
